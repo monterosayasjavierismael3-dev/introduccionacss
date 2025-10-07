@@ -1,0 +1,21 @@
+
+h3{
+    color: rgb(216, 216, 216);
+    line-height: 1.6;
+    font-size: 40px;/*tamaño de la letra*/
+
+}
+body{
+    background-color: #ff7f50;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+/*contenido*/
+h1,h2{
+    color: #fff;
+}
+
+p{
+    line-height: 0cm;
+}
